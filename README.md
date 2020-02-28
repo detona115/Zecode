@@ -64,5 +64,5 @@ python main.py
 * **Andy Kiaka** - *Trabalho Completo* - [detona115](https://github.com/detona115)
 
 ---
-⌨️ con ❤️ por [detona115](https://github.com/detona115) 😊
+⌨️ com ❤️ por [detona115](https://github.com/detona115) 😊
 
