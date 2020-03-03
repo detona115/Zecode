@@ -28,7 +28,7 @@ Postgresql12
 ```
 Download and see instructions on https://www.postgresql.org/download/
 ```
-###### _Lembrete : mude o usúario e senha usada para conectar com o SGBD, no código está definido como 'postgres' e '1234'_
+###### _Lembrete : para conectar com o SGBD, eu defini o usúario e senha como 'postgres' e '1234'_
 
 Psycopg2
 ```
