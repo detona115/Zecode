@@ -89,7 +89,7 @@ class MyForm(QMainWindow):
     def connection(self):
         try:
         # conectando ao postgres server e criando a base de dado delivery
-            conn = psycopg2.connect(user="postgres", password="1234", database="delivery")
+            conn = psycopg2.connect(host="localhost", user="postgres", password="1234", database="delivery")
             conn.autocommit = True
                    
         except Error as identifier:
@@ -107,7 +107,7 @@ class MyForm(QMainWindow):
 
         try:
         # conectando ao postgres server e criando a base de dado delivery
-            conn = psycopg2.connect(user="postgres", password="1234")
+            conn = psycopg2.connect(host="localhost", user="postgres", password="1234")
             conn.autocommit = True
             cur = conn.cursor()
             cur.execute("CREATE DATABASE delivery;")       
