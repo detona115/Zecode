@@ -1,3 +1,4 @@
+[![GitHub license](https://img.shields.io/badge/implemented%20by-Andy-blue)](https://www.linkedin.com/in/andy-kiaka-76a983110/)
 # Zecode
 
 Esse aplicativo tem por objetivo cadastrar e buscar pessoas onde todos são referrenciados por dados de geolocalização (geojson).
